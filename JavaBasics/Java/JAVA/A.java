@@ -1,0 +1,1 @@
+git remote add "my remote" "https://my-special-repo.com/path/to/repo.git"
